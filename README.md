@@ -16,8 +16,8 @@ OpenAI-compatible proxy for Google Gemini - use your Gemini plan locally like Ol
 ### From Source
 
 ```bash
-git clone https://github.com/your-repo/gemini-proxy.git
-cd gemini-proxy
+git clone https://github.com/your-repo/gproxy.git
+cd gproxy
 ./install.sh
 ```
 
